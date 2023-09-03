@@ -1,0 +1,7 @@
+matplotlib==3.7.1
+numpy==1.23.5
+opencv_python==4.8.0.76
+pandas==2.0.0
+pygame==2.3.0
+torch==2.0.1
+yolov5==7.0.12
